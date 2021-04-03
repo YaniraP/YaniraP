@@ -2,6 +2,8 @@
 
 I enjoy working in projects that have a direct impact and make life better for people. 
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/70593431/113482022-ffa8e580-949c-11eb-8ae0-62d3087b15ec.png">
+
 👩‍💻 Most recently I've been enjoying creating projects with React Native.
 
 🤓 I’m currently learning  the joys of Typescript.
@@ -9,6 +11,7 @@ I enjoy working in projects that have a direct impact and make life better for p
 🎆 In a former life I used to create unforgettable experiences, working as event manager.
 
 🌎 Sustainable lifestyle 
+
 
 
 #### Some of my favorite technologies:
